@@ -1,0 +1,10 @@
+/Users/chloecruvellier/qualitelog/coffee-machine/storage/src/main/java/fr/imt/coffee/storage/container/Container.java
+/Users/chloecruvellier/qualitelog/coffee-machine/storage/src/main/java/fr/imt/coffee/storage/exception/ExceptionContainerCreation.java
+/Users/chloecruvellier/qualitelog/coffee-machine/storage/src/main/java/fr/imt/coffee/storage/exception/CupNotEmptyException.java
+/Users/chloecruvellier/qualitelog/coffee-machine/storage/src/main/java/fr/imt/coffee/storage/FabricCupboardContainer.java
+/Users/chloecruvellier/qualitelog/coffee-machine/storage/src/main/java/fr/imt/coffee/storage/type/CoffeeType.java
+/Users/chloecruvellier/qualitelog/coffee-machine/storage/src/main/java/fr/imt/coffee/storage/container/Cup.java
+/Users/chloecruvellier/qualitelog/coffee-machine/storage/src/main/java/fr/imt/coffee/storage/container/Mug.java
+/Users/chloecruvellier/qualitelog/coffee-machine/storage/src/main/java/fr/imt/coffee/storage/container/CoffeeMug.java
+/Users/chloecruvellier/qualitelog/coffee-machine/storage/src/main/java/fr/imt/coffee/storage/container/CoffeeContainer.java
+/Users/chloecruvellier/qualitelog/coffee-machine/storage/src/main/java/fr/imt/coffee/storage/container/CoffeeCup.java

@@ -1,0 +1,12 @@
+/Users/chloecruvellier/qualitelog/coffee-machine/machine/src/test/java/fr/imt/coffee/machine/cucumber/steps/CucumberStepsCoffeeMachineMakeACoffeeTest.java
+/Users/chloecruvellier/qualitelog/coffee-machine/machine/src/test/java/fr/imt/coffee/machine/component/WaterPumpTest.java
+/Users/chloecruvellier/qualitelog/coffee-machine/machine/src/test/java/fr/imt/coffee/machine/component/SteamPipeTest.java
+/Users/chloecruvellier/qualitelog/coffee-machine/machine/src/test/java/fr/imt/coffee/machine/component/CoffeeGrinderTest.java
+/Users/chloecruvellier/qualitelog/coffee-machine/machine/src/test/java/fr/imt/coffee/machine/component/TankTest.java
+/Users/chloecruvellier/qualitelog/coffee-machine/machine/src/test/java/fr/imt/coffee/machine/CoffeeMachineUnitTest.java
+/Users/chloecruvellier/qualitelog/coffee-machine/machine/src/test/java/fr/imt/coffee/machine/cucumber/steps/CucumberStepsExpressoCoffeeMachineTest.java
+/Users/chloecruvellier/qualitelog/coffee-machine/machine/src/test/java/fr/imt/coffee/machine/component/BeanTankTest.java
+/Users/chloecruvellier/qualitelog/coffee-machine/machine/src/test/java/fr/imt/coffee/machine/component/ElectricalResistanceTest.java
+/Users/chloecruvellier/qualitelog/coffee-machine/machine/src/test/java/fr/imt/coffee/machine/ExpressoCoffeeMachineTest.java
+/Users/chloecruvellier/qualitelog/coffee-machine/machine/src/test/java/fr/imt/coffee/machine/component/WaterTankTest.java
+/Users/chloecruvellier/qualitelog/coffee-machine/machine/src/test/java/fr/imt/coffee/machine/CoffeeMachineCucumberFunctionalTest.java

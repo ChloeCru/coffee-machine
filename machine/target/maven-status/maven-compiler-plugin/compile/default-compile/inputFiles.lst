@@ -1,0 +1,13 @@
+/Users/chloecruvellier/qualitelog/coffee-machine/machine/src/main/java/fr/imt/coffee/machine/exception/CoffeeTypeCupDifferentOfCoffeeTypeTankException.java
+/Users/chloecruvellier/qualitelog/coffee-machine/machine/src/main/java/fr/imt/coffee/machine/component/WaterPump.java
+/Users/chloecruvellier/qualitelog/coffee-machine/machine/src/main/java/fr/imt/coffee/machine/component/WaterTank.java
+/Users/chloecruvellier/qualitelog/coffee-machine/machine/src/main/java/fr/imt/coffee/machine/component/ElectricalResistance.java
+/Users/chloecruvellier/qualitelog/coffee-machine/machine/src/main/java/fr/imt/coffee/machine/CoffeeMachine.java
+/Users/chloecruvellier/qualitelog/coffee-machine/machine/src/main/java/fr/imt/coffee/machine/EspressoCoffeeMachine.java
+/Users/chloecruvellier/qualitelog/coffee-machine/machine/src/main/java/fr/imt/coffee/machine/component/CoffeeGrinder.java
+/Users/chloecruvellier/qualitelog/coffee-machine/machine/src/main/java/fr/imt/coffee/machine/exception/LackOfWaterInTankException.java
+/Users/chloecruvellier/qualitelog/coffee-machine/machine/src/main/java/fr/imt/coffee/machine/component/Tank.java
+/Users/chloecruvellier/qualitelog/coffee-machine/machine/src/main/java/fr/imt/coffee/machine/component/BeanTank.java
+/Users/chloecruvellier/qualitelog/coffee-machine/machine/src/main/java/fr/imt/coffee/machine/exception/MachineNotPluggedException.java
+/Users/chloecruvellier/qualitelog/coffee-machine/machine/src/main/java/fr/imt/coffee/machine/component/SteamPipe.java
+/Users/chloecruvellier/qualitelog/coffee-machine/machine/src/main/java/fr/imt/coffee/machine/exception/CannotMakeCremaWithSimpleCoffeeMachine.java

@@ -1,0 +1,12 @@
+fr/imt/coffee/machine/component/TankTest.class
+fr/imt/coffee/machine/component/BeanTankTest.class
+fr/imt/coffee/machine/component/CoffeeGrinderTest.class
+fr/imt/coffee/machine/component/WaterPumpTest.class
+fr/imt/coffee/machine/ExpressoCoffeeMachineTest.class
+fr/imt/coffee/machine/component/ElectricalResistanceTest.class
+fr/imt/coffee/machine/cucumber/steps/CucumberStepsExpressoCoffeeMachineTest.class
+fr/imt/coffee/machine/component/SteamPipeTest.class
+fr/imt/coffee/machine/CoffeeMachineUnitTest.class
+fr/imt/coffee/machine/cucumber/steps/CucumberStepsCoffeeMachineMakeACoffeeTest.class
+fr/imt/coffee/machine/CoffeeMachineCucumberFunctionalTest.class
+fr/imt/coffee/machine/component/WaterTankTest.class
